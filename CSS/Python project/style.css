@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif
+
+}
+#wrapper{
+    width: 970px;
+    margin: auto 0px;
+    background-color: darkblue
+    color: white;
+}
+#header img{
+width: 400px;
+}
